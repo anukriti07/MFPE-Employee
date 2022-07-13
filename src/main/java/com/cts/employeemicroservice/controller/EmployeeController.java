@@ -32,7 +32,6 @@ public class EmployeeController {
 
 	/**
 	 * view offers for an employee
-	 * 
 	 * @param token
 	 * @param employeeId
 	 * @return ResponseEntity<List<EmployeeOffers>>
